@@ -10,5 +10,5 @@
 
 | Projects|Description|
 | ------ |---------|
-| [Link to code](chollet_book_pytorch.ipynb) | Implementation of CNN in Chollet's book|
+| [CNN](chollet_book_pytorch.ipynb) | Implementation of CNN in Chollet's book|
 
