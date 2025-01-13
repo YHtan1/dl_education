@@ -8,7 +8,8 @@
 
 - If time permits, I'll probably even livestream myself build interesting stuff 
 
-| Projects|Description|
-| ------ |---------|
-| [CNN](chollet_book_pytorch.ipynb) | Implementation of CNN in Chollet's book|
+| Project Description|
+| ------ |
+| [Implementation of CNN in Chollet's book](chollet_book_pytorch.ipynb) | 
+| [Using Pretrained Model](chollet_book_pytorch_vcg.ipynb)|
 
