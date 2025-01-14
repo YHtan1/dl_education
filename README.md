@@ -11,5 +11,6 @@
 | Project Description|
 | ------ |
 | [Implementation of CNN in Chollet's book](chollet_book_pytorch.ipynb) | 
-| [Using Pretrained Model](chollet_book_pytorch_vcg.ipynb)|
+| [Using Pretrained VGG Model for Feature Extraction for Classification](chollet_book_pytorch_vcg.ipynb)|
+|[Fine-tuning VGG Model for Classification](chollet_book_pytorch_vcg_finetune.ipynb)|
 
